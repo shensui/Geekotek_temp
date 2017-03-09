@@ -1,4 +1,11 @@
+assset/*
 css/*.css.map
 scss/core.css
 scss/core.css.map
 assset/*
+js/jquery-3.1.1.js
+font-awesome-4.7.0/HELP-US-OUT.txt
+font-awesome-4.7.0/less/*
+font-awesome-4.7.0/scss/*
+font-awesome-4.7.0/fonts/*
+scss/scss_webzone/*
