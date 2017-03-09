@@ -6,3 +6,4 @@ template du projet geekotek
 * 09/03/17 - ajout de font awesome. 
            - Création de la page home. 
            - création de la branche home.
+           - modification du tableaux d'actualitée de la page home.
