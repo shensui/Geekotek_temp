@@ -1,15 +1,12 @@
 /*font*/
 @import "_font";
+// old bootstrap css
+@import "bootstrap_old";
 
 html, body{
   font-family: 'Times New Roman','Abel', sans-serif;
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#28343b+0,00000c+48,0d0d0f+48,b5bdc8+100 */
   background: rgb(40,52,59); /* Old browsers */
-  background: -moz-linear-gradient(left,  rgba(40,52,59,1) 0%, rgba(0,0,12,1) 48%, rgba(13,13,15,1) 48%, rgba(181,189,200,1) 100%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(left,  rgba(40,52,59,1) 0%,rgba(0,0,12,1) 48%,rgba(13,13,15,1) 48%,rgba(181,189,200,1) 100%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right,  rgba(40,52,59,1) 0%,rgba(0,0,12,1) 48%,rgba(13,13,15,1) 48%,rgba(181,189,200,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#28343b', endColorstr='#b5bdc8',GradientType=1 ); /* IE6-9 */
-
 }
 .row{
   margin-bottom: 20px;
