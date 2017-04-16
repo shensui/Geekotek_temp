@@ -14,7 +14,9 @@ template du projet geekotek
     - création des page d'inscription et de connection.  
 * 21/03/17  
     - Ajout des box de connection et du profil sur la page contacte.
-* 14/4/17
+* 14/04/17
     - ajout du site map du site.
     - mise en place de la page de contacte.
+* 16/04/17
+    - finition de la page de liste de la zone manga.
     

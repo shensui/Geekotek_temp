@@ -4,7 +4,22 @@
 
 $(document).ready(function () {
     debuger(2, 'je suis pret');
+    ancre();
 });
+
+
+function ancre() {
+    var links = document.querySelectorAll('.ancre_link');
+    debuger('3', links);
+    $('#contenu .panel-primary').hide();
+    $('#intro').show();
+    $('.ancre_link').click(function (event) {
+        event.preventDefault();
+        var actuel = event.target;
+        debuger('3', actuel.text);
+        $('#' + actuel.text + '').show().siblings().hide();
+    });
+}
 
 /**
  *
